@@ -18,15 +18,3 @@ then after create a virtual environmemt for that project this help to run the pr
 6. to run the conda environmemt that we create we use conda activate   initilize the project path coz there is our envionmemt 
 and then conda activate environmemt name  i.e --- "conda activate venv"
 
-7. after creaeting the api and setup in the .env we will use it 1st create a set and check weather works well or not so we use image text reader and we will take a tax invoice for that
-
-8. we create a file app.py to setp all the process for checking the working of api og gimini
-
-9. we will use thegemini-1.5-pro model for that 
-
-10 now time to create a section setup that is  gimini sql  here it will retrive the data from the sql and processed through the gimini 
-
-
-11 create the two files sql and sqlite.py for establish the data bases
-
-12.
